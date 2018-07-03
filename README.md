@@ -11,9 +11,9 @@ To begin with proper selection of the communication architecture & underlying pr
 
 When we start thinking about the network topology following the following questions comes in mind.
 
-* Why newer technologies are adopting mesh topology instead of star (Zigbee, Zwave, Thread, BLE mesh). Which is significant contrast between usual star topology of wifi where every device connects to router which act as concentrator. 
+* Why newer technologies are adopting mesh topology instead of star (Zigbee, Zwave, Thread, BLE-MESH). Which is significant contrast between usual star topology of WiFi where every device connects to router which act as concentrator. 
 
-* [EETimes](https://www.eetimes.com/document.asp?doc_id=1168414) suggest that reliability improvements (e.g. self-healing transmissions) are one of the main advantages of a mesh network, though this seems like a small advantage compared to the added complexity of setting up a mesh network.
+* [EETimes Blog](https://www.eetimes.com/document.asp?doc_id=1168414) suggests that reliability improvements (e.g. self-healing transmissions) are one of the main advantages of a mesh network, though this seems like a small advantage compared to the added complexity of setting up a mesh network.
 
 * For a home/office IoT network which is likely to contain about 10-20 networked devices and spread a short range from end-to-end, what makes mesh networks more suitable than a regular star topology? Is the added complexity not as significant as I seem to believe it is?
 

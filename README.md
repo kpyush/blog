@@ -5,7 +5,7 @@ Connecting the things wirelessly provides the following benifits:
 * Minimizes installation and mainenace effort.
 * Mobility
 
-To begin with proper selection of the communication architecture & underlying protocol palys major role to achieve the above mentioned requirements. This document explains various technologies of communication, architecture & available SoCs in the market. Before going into much detail let's figure out some basic requirement of IoT devices in genral.
+Selection of the communication architecture & underlying protocol palys major role to achieve the above mentioned requirements. This document explains various technologies of communication, architecture & available SoCs in the market. Before going into much detail let's figure out some basic requirement of IoT devices in genral.
 
 **Selection of Wireless Mesh Network Vs Star Network:**
 

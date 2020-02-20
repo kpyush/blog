@@ -9,9 +9,9 @@ Selection of the communication architecture & underlying protocol palys major ro
 
 **Selection of Wireless Mesh Network Vs Star Network:**
 
-When we start thinking about the network topology following the following questions comes in mind.
+When we think about the network topology following the following questions pops up in our mind.
 
-* Why newer technologies are adopting mesh topology instead of star (Zigbee, Zwave, Thread, BLE-MESH). Which is significant contrast between usual star topology of WiFi where every device connects to router which act as concentrator. 
+* Why newer technologies like Zigbee, Zwave, Thread and BLE-MESH are adopting mesh topology instead of star, which is significant contrast between usual star topology of WiFi where every device connects to router which act as concentrator. 
 
 * [EETimes Blog](https://www.eetimes.com/document.asp?doc_id=1168414) states that reliability improvements (e.g. self-healing transmissions) are one of the main advantages of a mesh network, though this seems like a small advantage compared to the added complexity of setting up a mesh network.
 

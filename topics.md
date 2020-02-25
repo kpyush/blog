@@ -1,26 +1,35 @@
-# Bootloader
+## Bootloader
   1. Xip
   2. Non Xip
   3. MCU boot
-Watchdog
+  
+## Watchdog
   1. Gatekeeper task
-OTA
+  
+## OTA Challenges
   2. MCU boot
 
-COAP
+## COAP
   1. UDP
   2. COAPs
   
-MQTT
+## MQTT
   1. QoS
   2. Will Message
   3. Retained messages
   
-Thread
+## CoAP vs MQTT
+  
+## RTOS
   1. Why RTOS is needed
   2. Zephyr vs Freertos
 
-SD card fix on 16 bit character size MCUs
+## FATFs
   1. File system basics
   2. Problem with 16 bit pointers
   3. checksum calculation
+  4. SD card fix on 16 bit character size MCUs
+  
+## Interview
+ 1. For Managers
+ 2. For Applicant

@@ -4,3 +4,4 @@ OTA
 COAP
 MQTT
 Thread
+SD card fix on 16 bit character size MCUs

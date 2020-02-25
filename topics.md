@@ -9,7 +9,7 @@
 ## OTA Challenges
   2. MCU boot
 
-## COAP
+## CoAP
   1. UDP
   2. COAPs
   

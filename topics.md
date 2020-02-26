@@ -29,6 +29,9 @@
   2. Problem with 16 bit pointers
   3. checksum calculation
   4. SD card fix on 16 bit character size MCUs
+
+## LWIP
+  1. TCP/IP stack
   
 ## Interview
  1. For Managers

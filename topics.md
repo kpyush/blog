@@ -1,5 +1,5 @@
 ## Basics of CAN networking
-  1. Cannecting without Transivers
+  1. Connecting without Transivers
 ## Bootloader
   1. Xip
   2. Non Xip

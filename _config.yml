@@ -4,17 +4,3 @@ title: MicroStack
   
 description: > # this means to ignore newlines until "show_excerpts:"
   Wireless network security
-  
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
-
-social_links:
-    twitter: MicroStackIoT
-    github:  kpyush
-    facebook: ustack
-    instagram: microstackiot
-    linkedin: company/microstackiot
-    
-header_pages:
-  - about.md

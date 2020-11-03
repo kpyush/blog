@@ -1,3 +1,5 @@
+# Wireless Communication Architecture for IOT.
+
 Connecting the things wirelessly provides the following benifits:
 * Provides scalability.
 * Minimizes installation and mainenace effort.

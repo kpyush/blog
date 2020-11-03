@@ -1,5 +1,3 @@
-# [Getting Started with Zephyr-ROTS](https://github.com/kpyush/blog/blob/master/zephyr.md#getting-started-with-zephyr)
-
 # Wireless Communication Architecture for IOT.
 
 Connecting the things wirelessly provides the following benifits:

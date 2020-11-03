@@ -1,10 +1,6 @@
 theme: minima
 
 title: MicroStack
-
-author:
-  site.author.name: MicroStackIoT
-  site.author.email: stack.micro@gmail.com
   
 description: > # this means to ignore newlines until "show_excerpts:"
   Wireless network security

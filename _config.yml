@@ -13,3 +13,10 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+social_links:
+    twitter: MicroStackIoT
+    github:  kpyush
+    facebook: ustack
+    instagram: microstackiot
+    linkedin: company/microstackiot

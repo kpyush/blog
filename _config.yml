@@ -1,14 +1,14 @@
+theme: minima
+
 title: MicroStack
 
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  site.author.name: MicroStackIoT
+  site.author.email: stack.micro@gmail.com
   
 description: > # this means to ignore newlines until "show_excerpts:"
   Wireless network security
   
-theme: minima
-
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
